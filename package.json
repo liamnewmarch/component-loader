@@ -1,0 +1,13 @@
+{
+  "name": "defered-elements",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "lit-html": "^1.0.0",
+    "ws": "^6.1.4"
+  }
+}
